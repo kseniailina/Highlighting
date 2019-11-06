@@ -24,7 +24,7 @@ cat << EOF
 ##teamcity[testStdErr name='MyTest.test2' out='text https://youtrack.jetbrains.net/issue/TW-59809 text ']
 ##teamcity[testFinished name='MyTest.test2']
 EOF
-hj
+dsd
 echo "https://www.jetbrains.com"
 sleep 5
 for ((i=0;i<16;i++)); do
